@@ -1,3 +1,4 @@
 = PdFer
+{<img src="https://travis-ci.org/NanoXD/PDFer.png?branch=master" alt="Build Status" />}[https://travis-ci.org/NanoXD/PDFer]
 
 This project rocks and uses MIT-LICENSE.
